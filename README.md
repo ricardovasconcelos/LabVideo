@@ -23,7 +23,7 @@ A video platform developed using ReactJS, Vite and GraphQL
 
 1. Create the `.env.local`
   - Like `.env.local.example`
-2. Get your API keys on <a href="https://graphcms.com/">Vite</a>
+2. Get your API keys on <a href="https://graphcms.com/">GraphCMS</a>
 3. Run `yarn dev` to start the web application on `localhost:3000`
 
 # Some Observations about this project
